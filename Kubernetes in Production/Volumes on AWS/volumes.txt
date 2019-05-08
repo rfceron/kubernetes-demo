@@ -1,0 +1,2 @@
+Volumes will be auto created on AWS if only the claims are created. 
+

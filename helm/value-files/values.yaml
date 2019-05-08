@@ -27,4 +27,4 @@ deployments:
    - chat
 
 api:
-  relicacoun: 3 
+  relicaCount: 3 
